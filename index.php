@@ -27,7 +27,7 @@
     </head>
 <nav>
     <div class="box">
-        <img src="img/DFMlogo.png" alt="https://upload.wikimedia.org/wikipedia/fr/9/9e/Dongfeng-logo.png"/>
+        <img src="DFMlogo.png" alt="https://upload.wikimedia.org/wikipedia/fr/9/9e/Dongfeng-logo.png"/>
     </div> 
 </nav>
 <body>
@@ -43,7 +43,7 @@
 			<div class="sign-in-htm">
                
 				<div class="group">
-                    <img width="200" height="70"  style="margin-bottom : 20px;" src="img/COMET.png"/> <br/>
+                    <img width="200" height="70"  style="margin-bottom : 20px;" src="COMET.png"/> <br/>
                             <?php if (isset($_GET['error'])) { ?>
                             <p style="color : red;"><?php echo $_GET['error']; ?></p>
                             <?php } ?>
@@ -68,7 +68,7 @@
 				</div>
 			</div>
 			<div class="sign-up-htm">
-                <img width="200" height="70"  style="margin-bottom : 20px;" src="img/COMET.png"/>
+                <img width="200" height="70"  style="margin-bottom : 20px;" src="COMET.png"/>
 				
                      <p style="color : #f51000;"> L'inscription et désactivé temporairement !
                          Pour plus d'informations contacter l'équipe du service qualité COMET. 
