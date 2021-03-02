@@ -23,7 +23,7 @@
         <link rel="icon" href="https://seeklogo.com/images/D/dfm-logo-468608D2BF-seeklogo.com.png" type="image/x-icon">
         <link rel="shortcut icon" type="image/x-icon" href="https://seeklogo.com/images/D/dfm-logo-468608D2BF-seeklogo.com.png">
         <!-- Link to CSS file -->
-        <link rel="stylesheet" href="CSS/Stylesheets.CSS" type ="text/CSS" > 
+        <link rel="stylesheet" href="Stylesheets.CSS" type ="text/CSS" > 
     </head>
 <nav>
     <div class="box">
